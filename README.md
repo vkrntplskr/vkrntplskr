@@ -4,11 +4,13 @@
 
 ###
 
-<img align="right" height="148" src="https://ph-avatars.imgix.net/6976378/64292ec1-2343-4c2c-ac5c-834cf6450d17.png"  />
+<h1 align="center">Hey 👋What's Up?<br>I'm Vikrant Palaskar</h1>
 
 ###
 
-<h1 align="center">Hey 👋What's Up?<br>I'm Vikrant Palaskar<br> --</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=25&section=header&reversal=false&text=Professional%20Summary&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=54&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
